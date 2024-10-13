@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Satyam Shivhare - DevOps Engineer Resume">
+    <title>Satyam Shivhare | DevOps Engineer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 1rem;
+            text-align: center;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        .section {
+            background: #fff;
+            margin-bottom: 1.5rem;
+            padding: 1rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        .contact-info {
+            text-align: center;
+        }
+        .contact-info a {
+            color: #333;
+            text-decoration: none;
+        }
+        .contact-info a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Satyam Shivhare</h1>
+    <p>DevOps Engineer | +91 8770393494 | <a href="mailto:satyamshivhare637@gmail.com">satyamshivhare637@gmail.com</a> | 
+       <a href="https://linkedin.com/in/satyamshivhare637" target="_blank">LinkedIn</a> | 
+       <a href="https://github.com/Satyam637" target="_blank">GitHub</a>
+    </p>
+</header>
+
+<div class="container">
+
+    <!-- Experience Section -->
+    <div class="section">
+        <h2>Experience</h2>
+        <h3>Technology Analyst – DevOps Engineer</h3>
+        <p><strong>Infosys Ltd.</strong> | Nov 2022 – Present | Stockholm, Sweden</p>
+        <ul>
+            <li>Designed branching strategies using GitHub, optimizing code collaboration and reducing conflicts.</li>
+            <li>Streamlined software delivery by developing 15+ Jenkins CI/CD pipelines.</li>
+            <li>Automated deployments for 10+ applications using Jenkins and Docker, reducing errors by 50%.</li>
+            <li>Utilized Terraform to manage Infrastructure as Code, improving provisioning speed by 30%.</li>
+            <li>Provided support and troubleshooting for deployment issues, ensuring smooth software delivery.</li>
+        </ul>
+
+        <h3>System Engineer – Junior DevOps Engineer</h3>
+        <p><strong>Infosys Ltd.</strong> | Jan 2021 – Oct 2022 | Pune, Maharashtra</p>
+        <ul>
+            <li>Managed Unix and Windows Server administration, updates, and troubleshooting.</li>
+            <li>Collaborated with team members to ensure system stability and security.</li>
+            <li>Supported server migrations to new versions.</li>
+        </ul>
+    </div>
+
+    <!-- Projects Section -->
+    <div class="section">
+        <h2>Projects</h2>
+        <ul>
+            <li><strong>CICD with Jenkins, Nexus, SonarQube, Docker, Amazon ECS, and Slack:</strong> Automated continuous integration and delivery.</li>
+            <li><strong>Containerization of Java Application using Docker:</strong> Containerized a Java application for easy deployment.</li>
+            <li><strong>DevOps CI/CD pipelines using Git, Jenkins, Ansible, Docker, and Kubernetes on AWS:</strong> Built fully automated CI/CD pipelines.</li>
+            <li><strong>Building AWS Infrastructure with Terraform:</strong> Provisioned AWS resources using Infrastructure as Code.</li>
+        </ul>
+    </div>
+
+    <!-- Education Section -->
+    <div class="section">
+        <h2>Education</h2>
+        <p><strong>Madhav Institute of Technology and Science, Gwalior, M.P</strong><br>
+           Bachelor’s in Engineering, Electronics and Communication | July 2016 – April 2020</p>
+    </div>
+
+    <!-- Skills Section -->
+    <div class="section">
+        <h2>Technical Skills</h2>
+        <ul>
+            <li><strong>Infrastructure Services:</strong> DNS, HTTP, Nginx, Apache, Reverse Proxy, Load Balancers, MySQL, RDS</li>
+            <li><strong>Languages:</strong> Bash Scripting, Basic Python</li>
+            <li><strong>Cloud and OS:</strong> AWS, Linux (RedHat, Ubuntu, Amazon Linux)</li>
+            <li><strong>CI/CD Tools:</strong> VS Code, 
